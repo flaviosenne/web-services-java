@@ -1,4 +1,4 @@
-package com.microservice.stock.connections;
+package com.microservice.stockprice.connections;
 
 import constants.RabbitMQConstants;
 import org.springframework.amqp.core.AmqpAdmin;

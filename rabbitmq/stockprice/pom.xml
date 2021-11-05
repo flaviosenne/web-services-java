@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.microservice</groupId>
-	<artifactId>stock</artifactId>
+	<artifactId>stockprice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>stock</name>
+	<name>stockprice</name>
 	<description>Micro Service project to Service Stock</description>
 	<properties>
 		<java.version>11</java.version>

@@ -1,6 +1,6 @@
-package com.microservice.stock.controller;
+package com.microservice.stockprice.controller;
 
-import com.microservice.stock.service.RabbitMQService;
+import com.microservice.stockprice.service.RabbitMQService;
 import constants.RabbitMQConstants;
 import dto.StockDto;
 import org.springframework.beans.factory.annotation.Autowired;

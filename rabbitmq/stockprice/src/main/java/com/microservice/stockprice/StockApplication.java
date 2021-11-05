@@ -1,4 +1,4 @@
-package com.microservice.stock;
+package com.microservice.stockprice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
